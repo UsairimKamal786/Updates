@@ -1,23 +1,20 @@
 [
-
-    {
-    "type": "general",
-    "title": "Bloxd.io Legend Live New Update: New Lobby Spawn",
-    "description": "THe new lobby spawn is here warp to see it.",
-    "date": "2026-04-14"
-  },
-  
   {
     "type": "bug",
-    "title": "Fixed '<h2>' tags",
+    "title": "Corrected h2 Tags",
     "description": "Updates the tags and corrected it.",
-    "date": "2026-04-10"
+    "date": "2026-04-15"
   },
-
+  {
+    "type": "general",
+    "title": "Bloxd.io Legend Live New Update: New Lobby Spawn",
+    "description": "The new lobby spawn is here warp to see it",
+    "date": "2026-04-14"
+  },
   {
     "type": "game",
-    "title": "Added new game mode",
-    "description": "Survival mode added to Roblox dashboard.",
-    "date": "2026-04-13"
+    "title": "Easter Part 2",
+    "description": "Escape Meteors new update. The Easter Part 2 is here!!!",
+    "date": "2026-04-10"
   }
 ]
