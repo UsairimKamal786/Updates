@@ -1,5 +1,8 @@
 fetch("updates.json?v=" + Date.now())
-  .then(res => res.json())
+  .then(res => {
+    if (!res.ok) throw new Error("File not found");
+    return res.json();
+  })
   .then(data => {
     const container = document.getElementById("updates");
 
@@ -16,4 +19,4 @@ fetch("updates.json?v=" + Date.now())
       container.appendChild(card);
     });
   })
-  .catch(err => console.error("Failed to load updates:", err));
+  .catch(err => console.error(err));
