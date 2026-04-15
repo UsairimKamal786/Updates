@@ -1,20 +1,20 @@
 [
   {
+    "type": "game",
+    "title": "Easter Part 2",
+    "description": "Escape Meteors new update. The Easter Part 2 is here!!!",
+    "date": "2026-04-10"
+  },
+  {
     "type": "bug",
     "title": "Corrected h2 Tags",
     "description": "Updates the tags and corrected it.",
-    "date": "2026-04-15"
+    "date": "2026-04-13"
   },
   {
     "type": "general",
     "title": "Bloxd.io Legend Live New Update: New Lobby Spawn",
     "description": "The new lobby spawn is here warp to see it",
     "date": "2026-04-14"
-  },
-  {
-    "type": "game",
-    "title": "Easter Part 2",
-    "description": "Escape Meteors new update. The Easter Part 2 is here!!!",
-    "date": "2026-04-10"
   }
 ]
