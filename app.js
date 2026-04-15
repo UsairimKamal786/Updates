@@ -1,4 +1,4 @@
-fetch("assets/updates.json?v=" + new Date().getTime())
+fetch("updates.json?v=" + Date.now())
   .then(res => res.json())
   .then(data => {
     const container = document.getElementById("updates");
@@ -15,4 +15,5 @@ fetch("assets/updates.json?v=" + new Date().getTime())
 
       container.appendChild(card);
     });
-  });
+  })
+  .catch(err => console.error("Failed to load updates:", err));
