@@ -1,16 +1,19 @@
 [
-  {
-    "type": "bug",
-    "title": "Fixed <h2> tags",
-    "description": "Updates the tags and corrected it.",
-    "date": "2026-04-10"
-  },
-  {
+
+    {
     "type": "general",
     "title": "Bloxd.io Legend Live New Update: New Lobby Spawn",
     "description": "THe new lobby spawn is here warp to see it.",
     "date": "2026-04-14"
   },
+  
+  {
+    "type": "bug",
+    "title": "Fixed '<h2>' tags",
+    "description": "Updates the tags and corrected it.",
+    "date": "2026-04-10"
+  },
+
   {
     "type": "game",
     "title": "Added new game mode",
